@@ -1,12 +1,1 @@
-- 👋 Hi, I’m @chenbingzhong
-- 👀 I’m interested in ai ……
-- 🌱 I’m currently learning go rust ……
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-chenbingzhong/chenbingzhong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+你好 ……
